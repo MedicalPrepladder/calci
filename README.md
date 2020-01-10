@@ -94,7 +94,7 @@ The product will work as a scientific calculator which will have the following f
 
 
 
-* Steps 4 (Testing):
+# Steps 4 (Testing):
 
 Write Test case for (use any tool Jest, Mocha and jasmine).
 
