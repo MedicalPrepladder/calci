@@ -1,5 +1,5 @@
 
-## Software requirement specification for React JS
+## Calci
 
 
 * Purpose: 
@@ -16,7 +16,7 @@ For this assignment, use React JS ( JSX ).This assignment is to be used only for
 
 The product will work as a scientific calculator which will have the following features:
 
-* Steps 1 **(Custom Web pack Configure)** 					            
+# Steps 1 **(Custom Web pack Configure)** 					            
 	
 	 *Configure Webpack with Babel Presets, ES Lint, Post CSS Config with autoprefixer (‘> 1 %’).*
 
@@ -35,7 +35,7 @@ The product will work as a scientific calculator which will have the following f
 
 
 
-* Steps 2 **(Design)**: 									 
+# Steps 2 **(Design)**: 									 
 
 	*Use any type of layout method (Flex, Grids, and Floats).*
 
@@ -66,7 +66,7 @@ The product will work as a scientific calculator which will have the following f
         x√y	                                        Calculates the xth root of y. i.e
 
 
-# Example:
+* Example:
 
     4√(625) = 5  means 5^4 = 5*5*5*5 = 625.   
 
@@ -76,7 +76,7 @@ The product will work as a scientific calculator which will have the following f
 
 
 
-* Steps 3 (Code):                            *No USE OF npm packages accept webpack configuration*
+# Steps 3 (Code):                            *No USE OF npm packages accept webpack configuration*
 
 
     **Coding style must be functional programming / OOPs.**
