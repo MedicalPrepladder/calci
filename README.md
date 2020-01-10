@@ -1,5 +1,5 @@
 
-## Calci
+# Calci in React JS
 
 
 * Purpose: 
@@ -16,15 +16,15 @@ For this assignment, use React JS ( JSX ).This assignment is to be used only for
 
 The product will work as a scientific calculator which will have the following features:
 
-# Steps 1 **(Custom Web pack Configure)** 					            
+## Steps 1 *(Custom Web pack Configure)* 					            
 	
-	 *Configure Webpack with Babel Presets, ES Lint, Post CSS Config with autoprefixer (‘> 1 %’).*
+    Configure Webpack with Babel Presets, ES Lint, Post CSS Config with autoprefixer (‘> 1 %’).
 
-	 *Build Directory   (Config Webpack for this).*
+    Build Directory   (Config Webpack for this).
 
 
 
-    **FILE TYPE	                     OUTPUT**
+    FILE TYPE	                     OUTPUT
 
         HTML	                    ./Build/index.html
         CSS	                        ./build/static/cs/style.css
@@ -35,9 +35,9 @@ The product will work as a scientific calculator which will have the following f
 
 
 
-# Steps 2 **(Design)**: 									 
+## Steps 2 **(Design)**: 									 
 
-	*Use any type of layout method (Flex, Grids, and Floats).*
+* Use any type of layout method (Flex, Grids, and Floats).
 
 
 
@@ -66,7 +66,7 @@ The product will work as a scientific calculator which will have the following f
         x√y	                                        Calculates the xth root of y. i.e
 
 
-* Example:
+## Example:
 
     4√(625) = 5  means 5^4 = 5*5*5*5 = 625.   
 
@@ -76,7 +76,7 @@ The product will work as a scientific calculator which will have the following f
 
 
 
-# Steps 3 (Code):                            *No USE OF npm packages accept webpack configuration*
+## Steps 3 (Code):                            *No USE OF npm packages accept webpack configuration*
 
 
     **Coding style must be functional programming / OOPs.**
@@ -94,7 +94,7 @@ The product will work as a scientific calculator which will have the following f
 
 
 
-# Steps 4 (Testing):
+## Steps 4 (Testing):
 
 Write Test case for (use any tool Jest, Mocha and jasmine).
 
